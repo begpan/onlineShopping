@@ -1,9 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Shopzon-Online Shopping</h2>
 
-Currently, two official plugins are available:
+This project was built with React. Offering a fully functional online shopping experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# onlineShopping
+<h2>Key Features</h2>:
+Built with React. Offering a fully functional online shopping experience.
+Customizable Interface: Tailor the platform to suit your unique business needs.
+State-of-the-Art Technologies: Powered by Redux Toolkit, and other cutting-edge tools for a seamless user journey. </br>
+
+<h3>Technologies Used:</h3> </br>
+
+React</br>
+Redux Toolkit</br>
+Axios</br>
+React Icons</br>
+Tailwind CSS</br>
+Redux</br>
+FakeStore API</br>
+Paginate</br>
+
+<h3>Screen Gif</h3> 
+
+![shopzon](https://github.com/begpan/onlineShopping/assets/145170180/4354f9ae-9029-452d-a97f-a11eb05ec2e2)
+
+
+
+
