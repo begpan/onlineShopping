@@ -8,7 +8,7 @@ Built with React. Offering a fully functional online shopping experience.
 Customizable Interface: Tailor the platform to suit your unique business needs.
 State-of-the-Art Technologies: Powered by Redux Toolkit, and other cutting-edge tools for a seamless user journey. </br>
 
-<h3>Technologies Used:</h3> </br>
+<h3>Technologies Used</h3> </br>
 
 React</br>
 Redux Toolkit</br>
